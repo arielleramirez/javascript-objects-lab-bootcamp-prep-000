@@ -20,4 +20,6 @@ function deleteFromObjectByKey(object, key){
   object
 }
 
-function des
+function destructivelyDeleteFromObjectByKey(object, key){
+  delete.recipe
+}
